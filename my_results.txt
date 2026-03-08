@@ -1,0 +1,258 @@
+Time=0 | A= 0 | B= 0 | Min= 0
+Time=10000 | A= 0 | B= 1 | Min= 0
+Time=20000 | A= 0 | B= 2 | Min= 0
+Time=30000 | A= 0 | B= 3 | Min= 0
+Time=40000 | A= 0 | B= 4 | Min= 0
+Time=50000 | A= 0 | B= 5 | Min= 0
+Time=60000 | A= 0 | B= 6 | Min= 0
+Time=70000 | A= 0 | B= 7 | Min= 0
+Time=80000 | A= 0 | B= 8 | Min= 0
+Time=90000 | A= 0 | B= 9 | Min= 0
+Time=100000 | A= 0 | B=10 | Min= 0
+Time=110000 | A= 0 | B=11 | Min= 0
+Time=120000 | A= 0 | B=12 | Min= 0
+Time=130000 | A= 0 | B=13 | Min= 0
+Time=140000 | A= 0 | B=14 | Min= 0
+Time=150000 | A= 0 | B=15 | Min= 0
+Time=160000 | A= 1 | B= 0 | Min= 0
+Time=170000 | A= 1 | B= 1 | Min= 1
+Time=180000 | A= 1 | B= 2 | Min= 1
+Time=190000 | A= 1 | B= 3 | Min= 1
+Time=200000 | A= 1 | B= 4 | Min= 1
+Time=210000 | A= 1 | B= 5 | Min= 1
+Time=220000 | A= 1 | B= 6 | Min= 1
+Time=230000 | A= 1 | B= 7 | Min= 1
+Time=240000 | A= 1 | B= 8 | Min= 1
+Time=250000 | A= 1 | B= 9 | Min= 1
+Time=260000 | A= 1 | B=10 | Min= 1
+Time=270000 | A= 1 | B=11 | Min= 1
+Time=280000 | A= 1 | B=12 | Min= 1
+Time=290000 | A= 1 | B=13 | Min= 1
+Time=300000 | A= 1 | B=14 | Min= 1
+Time=310000 | A= 1 | B=15 | Min= 1
+Time=320000 | A= 2 | B= 0 | Min= 0
+Time=330000 | A= 2 | B= 1 | Min= 1
+Time=340000 | A= 2 | B= 2 | Min= 2
+Time=350000 | A= 2 | B= 3 | Min= 2
+Time=360000 | A= 2 | B= 4 | Min= 2
+Time=370000 | A= 2 | B= 5 | Min= 2
+Time=380000 | A= 2 | B= 6 | Min= 2
+Time=390000 | A= 2 | B= 7 | Min= 2
+Time=400000 | A= 2 | B= 8 | Min= 2
+Time=410000 | A= 2 | B= 9 | Min= 2
+Time=420000 | A= 2 | B=10 | Min= 2
+Time=430000 | A= 2 | B=11 | Min= 2
+Time=440000 | A= 2 | B=12 | Min= 2
+Time=450000 | A= 2 | B=13 | Min= 2
+Time=460000 | A= 2 | B=14 | Min= 2
+Time=470000 | A= 2 | B=15 | Min= 2
+Time=480000 | A= 3 | B= 0 | Min= 0
+Time=490000 | A= 3 | B= 1 | Min= 1
+Time=500000 | A= 3 | B= 2 | Min= 2
+Time=510000 | A= 3 | B= 3 | Min= 3
+Time=520000 | A= 3 | B= 4 | Min= 3
+Time=530000 | A= 3 | B= 5 | Min= 3
+Time=540000 | A= 3 | B= 6 | Min= 3
+Time=550000 | A= 3 | B= 7 | Min= 3
+Time=560000 | A= 3 | B= 8 | Min= 3
+Time=570000 | A= 3 | B= 9 | Min= 3
+Time=580000 | A= 3 | B=10 | Min= 3
+Time=590000 | A= 3 | B=11 | Min= 3
+Time=600000 | A= 3 | B=12 | Min= 3
+Time=610000 | A= 3 | B=13 | Min= 3
+Time=620000 | A= 3 | B=14 | Min= 3
+Time=630000 | A= 3 | B=15 | Min= 3
+Time=640000 | A= 4 | B= 0 | Min= 0
+Time=650000 | A= 4 | B= 1 | Min= 1
+Time=660000 | A= 4 | B= 2 | Min= 2
+Time=670000 | A= 4 | B= 3 | Min= 3
+Time=680000 | A= 4 | B= 4 | Min= 4
+Time=690000 | A= 4 | B= 5 | Min= 4
+Time=700000 | A= 4 | B= 6 | Min= 4
+Time=710000 | A= 4 | B= 7 | Min= 4
+Time=720000 | A= 4 | B= 8 | Min= 4
+Time=730000 | A= 4 | B= 9 | Min= 4
+Time=740000 | A= 4 | B=10 | Min= 4
+Time=750000 | A= 4 | B=11 | Min= 4
+Time=760000 | A= 4 | B=12 | Min= 4
+Time=770000 | A= 4 | B=13 | Min= 4
+Time=780000 | A= 4 | B=14 | Min= 4
+Time=790000 | A= 4 | B=15 | Min= 4
+Time=800000 | A= 5 | B= 0 | Min= 0
+Time=810000 | A= 5 | B= 1 | Min= 1
+Time=820000 | A= 5 | B= 2 | Min= 2
+Time=830000 | A= 5 | B= 3 | Min= 3
+Time=840000 | A= 5 | B= 4 | Min= 4
+Time=850000 | A= 5 | B= 5 | Min= 5
+Time=860000 | A= 5 | B= 6 | Min= 5
+Time=870000 | A= 5 | B= 7 | Min= 5
+Time=880000 | A= 5 | B= 8 | Min= 5
+Time=890000 | A= 5 | B= 9 | Min= 5
+Time=900000 | A= 5 | B=10 | Min= 5
+Time=910000 | A= 5 | B=11 | Min= 5
+Time=920000 | A= 5 | B=12 | Min= 5
+Time=930000 | A= 5 | B=13 | Min= 5
+Time=940000 | A= 5 | B=14 | Min= 5
+Time=950000 | A= 5 | B=15 | Min= 5
+Time=960000 | A= 6 | B= 0 | Min= 0
+Time=970000 | A= 6 | B= 1 | Min= 1
+Time=980000 | A= 6 | B= 2 | Min= 2
+Time=990000 | A= 6 | B= 3 | Min= 3
+Time=1000000 | A= 6 | B= 4 | Min= 4
+Time=1010000 | A= 6 | B= 5 | Min= 5
+Time=1020000 | A= 6 | B= 6 | Min= 6
+Time=1030000 | A= 6 | B= 7 | Min= 6
+Time=1040000 | A= 6 | B= 8 | Min= 6
+Time=1050000 | A= 6 | B= 9 | Min= 6
+Time=1060000 | A= 6 | B=10 | Min= 6
+Time=1070000 | A= 6 | B=11 | Min= 6
+Time=1080000 | A= 6 | B=12 | Min= 6
+Time=1090000 | A= 6 | B=13 | Min= 6
+Time=1100000 | A= 6 | B=14 | Min= 6
+Time=1110000 | A= 6 | B=15 | Min= 6
+Time=1120000 | A= 7 | B= 0 | Min= 0
+Time=1130000 | A= 7 | B= 1 | Min= 1
+Time=1140000 | A= 7 | B= 2 | Min= 2
+Time=1150000 | A= 7 | B= 3 | Min= 3
+Time=1160000 | A= 7 | B= 4 | Min= 4
+Time=1170000 | A= 7 | B= 5 | Min= 5
+Time=1180000 | A= 7 | B= 6 | Min= 6
+Time=1190000 | A= 7 | B= 7 | Min= 7
+Time=1200000 | A= 7 | B= 8 | Min= 7
+Time=1210000 | A= 7 | B= 9 | Min= 7
+Time=1220000 | A= 7 | B=10 | Min= 7
+Time=1230000 | A= 7 | B=11 | Min= 7
+Time=1240000 | A= 7 | B=12 | Min= 7
+Time=1250000 | A= 7 | B=13 | Min= 7
+Time=1260000 | A= 7 | B=14 | Min= 7
+Time=1270000 | A= 7 | B=15 | Min= 7
+Time=1280000 | A= 8 | B= 0 | Min= 0
+Time=1290000 | A= 8 | B= 1 | Min= 1
+Time=1300000 | A= 8 | B= 2 | Min= 2
+Time=1310000 | A= 8 | B= 3 | Min= 3
+Time=1320000 | A= 8 | B= 4 | Min= 4
+Time=1330000 | A= 8 | B= 5 | Min= 5
+Time=1340000 | A= 8 | B= 6 | Min= 6
+Time=1350000 | A= 8 | B= 7 | Min= 7
+Time=1360000 | A= 8 | B= 8 | Min= 8
+Time=1370000 | A= 8 | B= 9 | Min= 8
+Time=1380000 | A= 8 | B=10 | Min= 8
+Time=1390000 | A= 8 | B=11 | Min= 8
+Time=1400000 | A= 8 | B=12 | Min= 8
+Time=1410000 | A= 8 | B=13 | Min= 8
+Time=1420000 | A= 8 | B=14 | Min= 8
+Time=1430000 | A= 8 | B=15 | Min= 8
+Time=1440000 | A= 9 | B= 0 | Min= 0
+Time=1450000 | A= 9 | B= 1 | Min= 1
+Time=1460000 | A= 9 | B= 2 | Min= 2
+Time=1470000 | A= 9 | B= 3 | Min= 3
+Time=1480000 | A= 9 | B= 4 | Min= 4
+Time=1490000 | A= 9 | B= 5 | Min= 5
+Time=1500000 | A= 9 | B= 6 | Min= 6
+Time=1510000 | A= 9 | B= 7 | Min= 7
+Time=1520000 | A= 9 | B= 8 | Min= 8
+Time=1530000 | A= 9 | B= 9 | Min= 9
+Time=1540000 | A= 9 | B=10 | Min= 9
+Time=1550000 | A= 9 | B=11 | Min= 9
+Time=1560000 | A= 9 | B=12 | Min= 9
+Time=1570000 | A= 9 | B=13 | Min= 9
+Time=1580000 | A= 9 | B=14 | Min= 9
+Time=1590000 | A= 9 | B=15 | Min= 9
+Time=1600000 | A=10 | B= 0 | Min= 0
+Time=1610000 | A=10 | B= 1 | Min= 1
+Time=1620000 | A=10 | B= 2 | Min= 2
+Time=1630000 | A=10 | B= 3 | Min= 3
+Time=1640000 | A=10 | B= 4 | Min= 4
+Time=1650000 | A=10 | B= 5 | Min= 5
+Time=1660000 | A=10 | B= 6 | Min= 6
+Time=1670000 | A=10 | B= 7 | Min= 7
+Time=1680000 | A=10 | B= 8 | Min= 8
+Time=1690000 | A=10 | B= 9 | Min= 9
+Time=1700000 | A=10 | B=10 | Min=10
+Time=1710000 | A=10 | B=11 | Min=10
+Time=1720000 | A=10 | B=12 | Min=10
+Time=1730000 | A=10 | B=13 | Min=10
+Time=1740000 | A=10 | B=14 | Min=10
+Time=1750000 | A=10 | B=15 | Min=10
+Time=1760000 | A=11 | B= 0 | Min= 0
+Time=1770000 | A=11 | B= 1 | Min= 1
+Time=1780000 | A=11 | B= 2 | Min= 2
+Time=1790000 | A=11 | B= 3 | Min= 3
+Time=1800000 | A=11 | B= 4 | Min= 4
+Time=1810000 | A=11 | B= 5 | Min= 5
+Time=1820000 | A=11 | B= 6 | Min= 6
+Time=1830000 | A=11 | B= 7 | Min= 7
+Time=1840000 | A=11 | B= 8 | Min= 8
+Time=1850000 | A=11 | B= 9 | Min= 9
+Time=1860000 | A=11 | B=10 | Min=10
+Time=1870000 | A=11 | B=11 | Min=11
+Time=1880000 | A=11 | B=12 | Min=11
+Time=1890000 | A=11 | B=13 | Min=11
+Time=1900000 | A=11 | B=14 | Min=11
+Time=1910000 | A=11 | B=15 | Min=11
+Time=1920000 | A=12 | B= 0 | Min= 0
+Time=1930000 | A=12 | B= 1 | Min= 1
+Time=1940000 | A=12 | B= 2 | Min= 2
+Time=1950000 | A=12 | B= 3 | Min= 3
+Time=1960000 | A=12 | B= 4 | Min= 4
+Time=1970000 | A=12 | B= 5 | Min= 5
+Time=1980000 | A=12 | B= 6 | Min= 6
+Time=1990000 | A=12 | B= 7 | Min= 7
+Time=2000000 | A=12 | B= 8 | Min= 8
+Time=2010000 | A=12 | B= 9 | Min= 9
+Time=2020000 | A=12 | B=10 | Min=10
+Time=2030000 | A=12 | B=11 | Min=11
+Time=2040000 | A=12 | B=12 | Min=12
+Time=2050000 | A=12 | B=13 | Min=12
+Time=2060000 | A=12 | B=14 | Min=12
+Time=2070000 | A=12 | B=15 | Min=12
+Time=2080000 | A=13 | B= 0 | Min= 0
+Time=2090000 | A=13 | B= 1 | Min= 1
+Time=2100000 | A=13 | B= 2 | Min= 2
+Time=2110000 | A=13 | B= 3 | Min= 3
+Time=2120000 | A=13 | B= 4 | Min= 4
+Time=2130000 | A=13 | B= 5 | Min= 5
+Time=2140000 | A=13 | B= 6 | Min= 6
+Time=2150000 | A=13 | B= 7 | Min= 7
+Time=2160000 | A=13 | B= 8 | Min= 8
+Time=2170000 | A=13 | B= 9 | Min= 9
+Time=2180000 | A=13 | B=10 | Min=10
+Time=2190000 | A=13 | B=11 | Min=11
+Time=2200000 | A=13 | B=12 | Min=12
+Time=2210000 | A=13 | B=13 | Min=13
+Time=2220000 | A=13 | B=14 | Min=13
+Time=2230000 | A=13 | B=15 | Min=13
+Time=2240000 | A=14 | B= 0 | Min= 0
+Time=2250000 | A=14 | B= 1 | Min= 1
+Time=2260000 | A=14 | B= 2 | Min= 2
+Time=2270000 | A=14 | B= 3 | Min= 3
+Time=2280000 | A=14 | B= 4 | Min= 4
+Time=2290000 | A=14 | B= 5 | Min= 5
+Time=2300000 | A=14 | B= 6 | Min= 6
+Time=2310000 | A=14 | B= 7 | Min= 7
+Time=2320000 | A=14 | B= 8 | Min= 8
+Time=2330000 | A=14 | B= 9 | Min= 9
+Time=2340000 | A=14 | B=10 | Min=10
+Time=2350000 | A=14 | B=11 | Min=11
+Time=2360000 | A=14 | B=12 | Min=12
+Time=2370000 | A=14 | B=13 | Min=13
+Time=2380000 | A=14 | B=14 | Min=14
+Time=2390000 | A=14 | B=15 | Min=14
+Time=2400000 | A=15 | B= 0 | Min= 0
+Time=2410000 | A=15 | B= 1 | Min= 1
+Time=2420000 | A=15 | B= 2 | Min= 2
+Time=2430000 | A=15 | B= 3 | Min= 3
+Time=2440000 | A=15 | B= 4 | Min= 4
+Time=2450000 | A=15 | B= 5 | Min= 5
+Time=2460000 | A=15 | B= 6 | Min= 6
+Time=2470000 | A=15 | B= 7 | Min= 7
+Time=2480000 | A=15 | B= 8 | Min= 8
+Time=2490000 | A=15 | B= 9 | Min= 9
+Time=2500000 | A=15 | B=10 | Min=10
+Time=2510000 | A=15 | B=11 | Min=11
+Time=2520000 | A=15 | B=12 | Min=12
+Time=2530000 | A=15 | B=13 | Min=13
+Time=2540000 | A=15 | B=14 | Min=14
+Time=2550000 | A=15 | B=15 | Min=15
+Truth table verification complete.
+TB_lab5.V:38: $finish called at 2560000 (1ps)
