@@ -1,0 +1,67 @@
+#! /usr/bin/vvp
+:ivl_version "12.0 (stable)";
+:ivl_delay_selection "TYPICAL";
+:vpi_time_precision - 12;
+:vpi_module "/usr/lib/x86_64-linux-gnu/ivl/system.vpi";
+:vpi_module "/usr/lib/x86_64-linux-gnu/ivl/vhdl_sys.vpi";
+:vpi_module "/usr/lib/x86_64-linux-gnu/ivl/vhdl_textio.vpi";
+:vpi_module "/usr/lib/x86_64-linux-gnu/ivl/v2005_math.vpi";
+:vpi_module "/usr/lib/x86_64-linux-gnu/ivl/va_math.vpi";
+S_0x632dc4dd4450 .scope module, "tbringoffive" "tbringoffive" 2 3;
+ .timescale -9 -12;
+v0x632dc4df99d0_0 .var "ctrl", 0 0;
+v0x632dc4df9a70_0 .net "gout", 1 5, L_0x632dc4dfa450;  1 drivers
+S_0x632dc4dac4c0 .scope module, "uut" "ringoffive" 2 9, 3 3 0, S_0x632dc4dd4450;
+ .timescale -9 -12;
+    .port_info 0 /OUTPUT 5 "gout";
+    .port_info 1 /INPUT 1 "ctrl";
+L_0x632dc4df9b40/d .functor NAND 1, v0x632dc4df99d0_0, L_0x632dc4df9c80, C4<1>, C4<1>;
+L_0x632dc4df9b40 .delay 1 (10000,10000,10000) L_0x632dc4df9b40/d;
+L_0x632dc4df9dc0/d .functor NOT 1, L_0x632dc4df9ef0, C4<0>, C4<0>, C4<0>;
+L_0x632dc4df9dc0 .delay 1 (10000,10000,10000) L_0x632dc4df9dc0/d;
+L_0x632dc4df9fe0/d .functor NOT 1, L_0x632dc4dfa120, C4<0>, C4<0>, C4<0>;
+L_0x632dc4df9fe0 .delay 1 (10000,10000,10000) L_0x632dc4df9fe0/d;
+L_0x632dc4dfa210/d .functor NOT 1, L_0x632dc4dfa330, C4<0>, C4<0>, C4<0>;
+L_0x632dc4dfa210 .delay 1 (10000,10000,10000) L_0x632dc4dfa210/d;
+L_0x632dc4dfa630/d .functor NOT 1, L_0x632dc4dfa790, C4<0>, C4<0>, C4<0>;
+L_0x632dc4dfa630 .delay 1 (10000,10000,10000) L_0x632dc4dfa630/d;
+v0x632dc4dd2a40_0 .net *"_ivl_0", 0 0, L_0x632dc4df9b40;  1 drivers
+v0x632dc4dd33d0_0 .net *"_ivl_11", 0 0, L_0x632dc4dfa120;  1 drivers
+v0x632dc4dd3d60_0 .net *"_ivl_12", 0 0, L_0x632dc4dfa210;  1 drivers
+v0x632dc4df9160_0 .net *"_ivl_15", 0 0, L_0x632dc4dfa330;  1 drivers
+v0x632dc4df9240_0 .net *"_ivl_16", 0 0, L_0x632dc4dfa630;  1 drivers
+v0x632dc4df9370_0 .net *"_ivl_20", 0 0, L_0x632dc4dfa790;  1 drivers
+v0x632dc4df9450_0 .net *"_ivl_3", 0 0, L_0x632dc4df9c80;  1 drivers
+v0x632dc4df9530_0 .net *"_ivl_4", 0 0, L_0x632dc4df9dc0;  1 drivers
+v0x632dc4df9610_0 .net *"_ivl_7", 0 0, L_0x632dc4df9ef0;  1 drivers
+v0x632dc4df96f0_0 .net *"_ivl_8", 0 0, L_0x632dc4df9fe0;  1 drivers
+v0x632dc4df97d0_0 .net "ctrl", 0 0, v0x632dc4df99d0_0;  1 drivers
+v0x632dc4df9890_0 .net "gout", 1 5, L_0x632dc4dfa450;  alias, 1 drivers
+L_0x632dc4df9c80 .part L_0x632dc4dfa450, 0, 1;
+L_0x632dc4df9ef0 .part L_0x632dc4dfa450, 4, 1;
+L_0x632dc4dfa120 .part L_0x632dc4dfa450, 3, 1;
+L_0x632dc4dfa330 .part L_0x632dc4dfa450, 2, 1;
+LS_0x632dc4dfa450_0_0 .concat8 [ 1 1 1 1], L_0x632dc4dfa630, L_0x632dc4dfa210, L_0x632dc4df9fe0, L_0x632dc4df9dc0;
+LS_0x632dc4dfa450_0_4 .concat8 [ 1 0 0 0], L_0x632dc4df9b40;
+L_0x632dc4dfa450 .concat8 [ 4 1 0 0], LS_0x632dc4dfa450_0_0, LS_0x632dc4dfa450_0_4;
+L_0x632dc4dfa790 .part L_0x632dc4dfa450, 1, 1;
+    .scope S_0x632dc4dd4450;
+T_0 ;
+    %vpi_call 2 16 "$dumpfile", "waveform.vcd" {0 0 0};
+    %vpi_call 2 17 "$dumpvars", 32'sb00000000000000000000000000000000, S_0x632dc4dd4450 {0 0 0};
+    %pushi/vec4 0, 0, 1;
+    %store/vec4 v0x632dc4df99d0_0, 0, 1;
+    %delay 100000, 0;
+    %pushi/vec4 1, 0, 1;
+    %store/vec4 v0x632dc4df99d0_0, 0, 1;
+    %delay 500000, 0;
+    %vpi_call 2 26 "$display", "Simulation complete." {0 0 0};
+    %vpi_call 2 27 "$finish" {0 0 0};
+    %end;
+    .thread T_0;
+# The file index is used to find the file name in the following table.
+:file_names 4;
+    "N/A";
+    "<interactive>";
+    "tbringoffive.v";
+    "ringoffive.v";
